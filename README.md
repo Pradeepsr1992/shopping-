@@ -1,4 +1,0 @@
-# shopping-
-rice
-wheat
-raggi
